@@ -1,4 +1,3 @@
-noStroke();
 background(237,227,209);
 size(200,100);
 fill(227,219,132);
